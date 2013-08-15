@@ -7,4 +7,9 @@ doc/
 *.swp
 *~
 .sass-cache/
+doc/
+.project
+.DS_Store
+.idea
+.secret
 
